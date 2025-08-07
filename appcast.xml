@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>2.2.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://peromax.github.io/sparkleupdate/VPN%20MIR.dmg" length="34959187" type="application/octet-stream" sparkle:edSignature="/Dk3BIF4bcFUFzpYMJ8AAi/pATSKFMHGIUnfbx5P6RefsTXBU9vlu9/GkREhSjrEGcZd7rfHYbbr/zTZPxsuBw=="/>
+            <enclosure url="https://github.com/peromax/sparkleupdate/releases/download/v2.2.8/VPN.MIR.dmg" length="34959187" type="application/octet-stream" sparkle:edSignature="/Dk3BIF4bcFUFzpYMJ8AAi/pATSKFMHGIUnfbx5P6RefsTXBU9vlu9/GkREhSjrEGcZd7rfHYbbr/zTZPxsuBw=="/>
         </item>
     </channel>
 </rss>
