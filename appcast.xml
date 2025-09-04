@@ -3,10 +3,10 @@
     <channel>
         <title>VPN MIR</title>
         <item>
-            <title>2.3.6</title>
+            <title>2.0.0</title>
             <pubDate>Thu, 04 Sep 2025 16:40:09 +0300</pubDate>
-            <sparkle:version>2.3.6</sparkle:version>
-            <sparkle:shortVersionString>2.3.6</sparkle:shortVersionString>
+            <sparkle:version>2.0.0</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.1</sparkle:minimumSystemVersion>
             <enclosure url="" length="35182017" type="application/octet-stream" sparkle:edSignature="B6uNtymrJQjhjKPgiIPkSVrsoR4hyPoop4qRB0hdUXM3l7vcGE7tbGRsDXwL8MYqRoN9VVC12jiQa/WYEWulAA=="/>
         </item>
