@@ -10,5 +10,13 @@
             <sparkle:minimumSystemVersion>15.1</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/peromax/sparkleupdate/releases/download/prod/VPN.MIR.dmg" length="35181650" type="application/octet-stream" sparkle:edSignature="RncJbdEvzM+psKZs+nzFQyYXHsTlSE2gMkbI2C4pBHN5ID80he4J5tFMSfxY+PYbyOWBjgmoiWiFGbI1adiyDw=="/>
         </item>
+        <item>
+            <title>2.5.1</title>
+            <pubDate>Sun, 14 Sep 2025 19:42:51 +0300</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>2.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://peromax.github.io/sparkleupdate/VPN%20MIR.dmg" length="35046564" type="application/octet-stream" sparkle:edSignature="1Q9Qjw9GUlDwh7oOtHZlDm3Rwn7xLts5ldv1cx+qAJKWzJVIjUEqcZpEnScbiyTyHFhNBPMtp1GRwrkTtbQ7Dw=="/>
+        </item>
     </channel>
 </rss>
