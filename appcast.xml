@@ -6,7 +6,7 @@
             <title>2.5.5</title>
             <pubDate>Sat, 22 Nov 2025 18:05:29 +0300</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>2.5.15/sparkle:shortVersionString>
+            <sparkle:shortVersionString>2.5.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.1</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/peromax/sparkleupdate/releases/download/prod/VPN.MIR.dmg" length="35046564" type="application/octet-stream" sparkle:edSignature="pLse3auiDNOqQVyApEKysnGuaMrMEaDaiRf+vGnulxkGsWlTozbvjv9Ks1vV7+0dCWP8cU6ZNd3Ro4BKNlgOBQ=="/>
         </item>
