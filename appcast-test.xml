@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>VPN MIR</title>
+        <item>
+            <title>2.6.0</title>
+            <pubDate>Tue, 03 Feb 2026 16:46:18 +0300</pubDate>
+            <sparkle:version>2.6.0</sparkle:version>
+            <sparkle:shortVersionString>2.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/peromax/sparkleupdate/releases/download/prod/VPN.MIR.beta.dmg" length="30117485" type="application/octet-stream" sparkle:edSignature="daqrPUP7/hnoikdLdy8PHhcM+mFJvudqciOn4pxIARnJYY2QBFgWIPESm3QwJ8QGFkK1MArFm7Ngs2DZjmsqAg=="/>
+        </item>
+    </channel>
+</rss>
