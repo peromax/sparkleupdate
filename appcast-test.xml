@@ -3,12 +3,12 @@
     <channel>
         <title>VPN MIR</title>
         <item>
-            <title>2.6.0</title>
-            <pubDate>Tue, 03 Feb 2026 16:46:18 +0300</pubDate>
-            <sparkle:version>2.6.0</sparkle:version>
-            <sparkle:shortVersionString>2.6.0</sparkle:shortVersionString>
+            <title>2.6.1</title>
+            <pubDate>Tue, 03 Feb 2026 17:57:06 +0300</pubDate>
+            <sparkle:version>2.6.1</sparkle:version>
+            <sparkle:shortVersionString>2.6.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peromax/sparkleupdate/releases/download/prod/VPN.MIR.beta.dmg" length="30117485" type="application/octet-stream" sparkle:edSignature="daqrPUP7/hnoikdLdy8PHhcM+mFJvudqciOn4pxIARnJYY2QBFgWIPESm3QwJ8QGFkK1MArFm7Ngs2DZjmsqAg=="/>
+            <enclosure url="https://github.com/peromax/sparkleupdate/releases/download/prod/VPN_MIR_beta.dmg" length="30119494" type="application/octet-stream" sparkle:edSignature="j4+j5r3++xF0HNlWiPH6iHTHiYcLdVOix4IbVzTDy5DAu2ChWoMwA95YWIfspZRewySDbx+6NaMvhf55l9NVCA=="/>
         </item>
     </channel>
 </rss>
